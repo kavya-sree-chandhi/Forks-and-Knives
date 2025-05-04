@@ -127,8 +127,8 @@ We successfully performed a full end-to-end attack involving **stack canary brut
 ## Important Files
 
 - `exploit.py` — Full exploitation script automating the attack.
-- `Group9.pptx` — Presentation.
-- `forks and Knives.zip` - Challenge file.
+- `Grp9.pptx` — Presentation.
+- `Forks and Knives.zip` - Challenge file.
 - `flag.txt` — Flag captured.
 
 ---
