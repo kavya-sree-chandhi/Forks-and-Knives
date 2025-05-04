@@ -23,7 +23,7 @@
 - [Summary of Exploitation Steps](#summary-of-exploitation-steps)
 - [Key Cybersecurity Concepts](#key-cybersecurity-concepts)
 - [Important Files](#important-files)
-- [Screenshots (Optional)](#screenshots-optional)
+- [Screenshots)](#screenshots)
 - [Thank You](#thank-you)
 
 ---
@@ -97,8 +97,7 @@ We successfully performed a full end-to-end attack involving **stack canary brut
 - Leaked the `libc` base address.
 - Sent final payload crafted with padding, canary, fake RBP, and ROP chain.
 - Gained a remote interactive shell with `io.interactive()`.
-- Captured the flag: HTB{d0n7_f0Rg37_t0_p0L15H_th3_f0Rk5!!!}
-
+- Captured the flag.
 
 ---
 
@@ -128,17 +127,17 @@ We successfully performed a full end-to-end attack involving **stack canary brut
 ## Important Files
 
 - `exploit.py` — Full exploitation script automating the attack.
+- `Group9.pptx` — Presentation.
 - `Dockerfile` — Build file for the local challenge setup.
 - `libc.so.6` — Local copy used for accurate ROP gadget resolving.
+- `flag.txt` — Flag captured.
 
 ---
 
-## Screenshots (Optional)
+## Screenshots
 
-> Add screenshots showing:
-> - Successful shell access
-> - Flag capture
-> - Docker environment setup
+![1](https://github.com/user-attachments/assets/33681269-4b92-46e9-8f0c-30f3c93e176e)
+
 
 ---
 
