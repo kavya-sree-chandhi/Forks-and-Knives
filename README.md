@@ -23,7 +23,7 @@
 - [Summary of Exploitation Steps](#summary-of-exploitation-steps)
 - [Key Cybersecurity Concepts](#key-cybersecurity-concepts)
 - [Important Files](#important-files)
-- [Screenshots)](#screenshots)
+- [Screenshots](#screenshots)
 - [Thank You](#thank-you)
 
 ---
@@ -135,8 +135,29 @@ We successfully performed a full end-to-end attack involving **stack canary brut
 ---
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/08915a8c-8309-4e4c-ba86-85dc02387a70)
+![image](https://github.com/user-attachments/assets/30b24217-9540-4903-8ba8-8d4c72be4df2)
+![image](https://github.com/user-attachments/assets/d714c998-0c37-43b1-aedd-7a58b6168eab)
+![image](https://github.com/user-attachments/assets/ecf332bd-4090-4482-9139-08f699f16f3a)
+![image](https://github.com/user-attachments/assets/61ddf042-a6f8-4be6-b73d-b9e6b3be8789)
+![image](https://github.com/user-attachments/assets/705e01dc-d016-4512-b097-f25729a47da1)
+![image](https://github.com/user-attachments/assets/21c4ef1a-23b7-42ff-b16d-a2cdee95fc70)
+![image](https://github.com/user-attachments/assets/b4dab886-aa71-41c3-ad63-ba88f3c7906d)
+![image](https://github.com/user-attachments/assets/606dcbbd-8c0a-4984-8212-429d0c8ea37d)
+![image](https://github.com/user-attachments/assets/abd60d89-cde7-425d-a825-ef1e93e348d7)
+![image](https://github.com/user-attachments/assets/492eaa8f-f541-43ae-b171-87278cf81179)
+![image](https://github.com/user-attachments/assets/81e54fe6-8f71-49e1-aba9-37887e939973)
 
-![1](https://github.com/user-attachments/assets/33681269-4b92-46e9-8f0c-30f3c93e176e)
+
+
+
+
+
+
+
+
+
+
 
 
 ---
