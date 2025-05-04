@@ -128,8 +128,7 @@ We successfully performed a full end-to-end attack involving **stack canary brut
 
 - `exploit.py` — Full exploitation script automating the attack.
 - `Group9.pptx` — Presentation.
-- `Dockerfile` — Build file for the local challenge setup.
-- `libc.so.6` — Local copy used for accurate ROP gadget resolving.
+- `forks and Knives.zip` - Challenge file.
 - `flag.txt` — Flag captured.
 
 ---
