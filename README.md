@@ -1,4 +1,3 @@
-# Forks-and-Knives
 # Forks and Knives - Hack The Box Challenge
 
 **Contributors**:  
